@@ -8,9 +8,8 @@ liq-f
 #dev  chongtu
 #master something
 #master sts change
-<<<<<<< master
+
 
 #onlin confilct
 
-=======
->>>>>>> b037c56 #sts confilct
+#sts 1
