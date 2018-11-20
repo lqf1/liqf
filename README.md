@@ -16,12 +16,11 @@ liq-f
 #tst test1
 
 #online test
-<<<<<<< master
+
 
 #push 1
 #push 2
-=======
->>>>>>> 37562db push1
+
 
 
 
